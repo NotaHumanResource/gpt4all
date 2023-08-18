@@ -40,7 +40,8 @@ One click installers for macOS, Linux, and Windows at https://gpt4all.io
 * Syntax highlighting support for programming languages, etc.
 * REST API with a built-in webserver in the chat gui itself with a headless operation mode as well
 * Advanced settings for changing temperature, topk, etc. (DONE)
-* YOUR IDEA HERE
+* Ability for LLM to use/remember saved chats (long term memory of human dialog) LLM+
+*  YOUR IDEA HERE
 
 ## Building and running
 
